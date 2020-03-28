@@ -36,5 +36,3 @@ successfully connected
 ```
 ./navy -h
 ```
-
-*Feel free to contact me at alexis.bret@epitech.eu for any question.* :+1:
